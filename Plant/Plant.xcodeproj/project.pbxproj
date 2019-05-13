@@ -25,6 +25,7 @@
 /* Begin PBXFileReference section */
 		2C749C312289BF3F00A0F2A3 /* Plant */ = {isa = PBXFileReference; explicitFileType = "compiled.mach-o.executable"; includeInIndex = 0; path = Plant; sourceTree = BUILT_PRODUCTS_DIR; };
 		2C749C342289BF3F00A0F2A3 /* main.cpp */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.cpp.cpp; path = main.cpp; sourceTree = "<group>"; };
+		2C749C3B2289C29D00A0F2A3 /* Header.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = Header.h; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -58,6 +59,7 @@
 			isa = PBXGroup;
 			children = (
 				2C749C342289BF3F00A0F2A3 /* main.cpp */,
+				2C749C3B2289C29D00A0F2A3 /* Header.h */,
 			);
 			path = Plant;
 			sourceTree = "<group>";
